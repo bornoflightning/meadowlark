@@ -1,0 +1,23 @@
+{
+  "name": "meadowlark",
+  "version": "1.0.0",
+  "description": "Generic Webiste of a hotel",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bornoflightning/meadowlark.git"
+  },
+  "keywords": [
+    "hotel",
+    "booking"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bornoflightning/meadowlark/issues"
+  },
+  "homepage": "https://github.com/bornoflightning/meadowlark#readme"
+}
